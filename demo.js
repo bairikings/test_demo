@@ -1,3 +1,2 @@
-a=1
-b=2
-print(a)
+console.log("hello world")
+console.log("hi evryone what are you doing")
